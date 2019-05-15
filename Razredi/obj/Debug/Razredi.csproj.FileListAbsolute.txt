@@ -1,0 +1,17 @@
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\Razredi.exe.config
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\Razredi.exe
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\Razredi.pdb
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\Items.dll
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\System.Data.SQLite.dll
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\Items.pdb
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\Items.dll.config
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\System.Data.SQLite.xml
+C:\Users\izoni\source\repos\Razredi\Razredi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.csprojAssemblyReference.cache
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.Form1.resources
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.Properties.Resources.resources
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.csproj.GenerateResource.cache
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.csproj.CoreCompileInputs.cache
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.csproj.CopyComplete
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.exe
+C:\Users\izoni\source\repos\Razredi\Razredi\obj\Debug\Razredi.pdb

@@ -1,0 +1,17 @@
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\Items.dll
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\Items.pdb
+C:\Users\izoni\source\repos\Razredi\Items\obj\Debug\Items.csproj.CoreCompileInputs.cache
+C:\Users\izoni\source\repos\Razredi\Items\obj\Debug\Items.dll
+C:\Users\izoni\source\repos\Razredi\Items\obj\Debug\Items.pdb
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\Items.dll.config
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\EntityFramework.dll
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\System.Data.SQLite.dll
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\EntityFramework.xml
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\System.Data.SQLite.xml
+C:\Users\izoni\source\repos\Razredi\Items\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\izoni\source\repos\Razredi\Items\obj\Debug\Items.csprojAssemblyReference.cache
+C:\Users\izoni\source\repos\Razredi\Items\obj\Debug\Items.csproj.CopyComplete
